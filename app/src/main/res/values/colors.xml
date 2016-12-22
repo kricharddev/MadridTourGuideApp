@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#51657E</color>
+    <color name="colorPrimaryDark">#AAAA</color>
+    <color name="colorAccent">#A0A0A0</color>
+    <color name="colorEvents">#51657E</color>
+    <color name="colorHistory">#51657E</color>
+    <color name="colorHotels">#51657E</color>
+    <color name="colorRestaurants">#51657E</color>
+</resources>

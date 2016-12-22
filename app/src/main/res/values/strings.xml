@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Madrid Tour Guide App</string>
+    <string name="category_events">Events</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_history">Historical Sites</string>
+    <string name="event_oneName">El Classico</string>
+    <string name="event_oneLocation">Santiago Bernabéu Stadium, Madrid</string>
+    <string name="event_oneDetails">April 23, 2017</string>
+    <string name="event_twoName">San Silvestre Vallecana</string>
+    <string name="event_twoLocation">Vallecas Stadium</string>
+    <string name="event_twoDetails">December 31, 2016</string>
+    <string name="event_threeName">Inverfest</string>
+    <string name="event_threeLocation">Teatro Circo Price</string>
+    <string name="event_threeDetails">January 12, 2017</string>
+    <string name="event_fourName">Bruno Mars Concert</string>
+    <string name="event_fourLocation">WiZink Center</string>
+    <string name="event_fourDetails">April 3, 2017</string>
+    <string name="event_fiveName">Mutua Madrid Open 2017</string>
+    <string name="event_fiveLocation">Madrid Caja Mágica</string>
+    <string name="event_fiveDetails">May 5, 2017</string>
+    <string name="history_oneName">Royal Palace</string>
+    <string name="history_oneLocation">Plaza Mayor, Opera and Sol/Gran Via</string>
+    <string name="history_oneDetails">Madrid\'s Royal Palace is the official residence of Spain\'s
+        current royal family</string>
+    <string name="history_twoName">Casa-Museo De Lope De Vega</string>
+    <string name="history_twoLocation">Atocha, Literary Quarter</string>
+    <string name="history_twoDetails">Provides insight into the life of the celebrated Spanish
+        playwright Lope de Vega as well as what life was like in Madrid during the 1600s</string>
+    <string name="history_threeName">Monasterio De Las Descalzas Reales</string>
+    <string name="history_threeLocation">Puerta de Sol</string>
+    <string name="history_threeDetails">Today the church and museum (now administered by the
+        Spanish state with permission from the Pope) displays an impressive wealth of paintings,
+        frescoes, statues, tapestries and religious artifacts, such as Saint Sebastian\'s
+        bones. The richly decorated palace is a must see on any Madrid itinerary </string>
+    <string name="history_fourName">Plaza Mayor</string>
+    <string name="history_fourLocation">Centro, Madrid</string>
+    <string name="history_fourDetails">Madrid\'s Plaza Mayor is a grand, historical
+        square in the heart of the city. </string>
+    <string name="hotels_oneName">Hotel Ritz Madrid</string>
+    <string name="hotels_oneLocation">Plaza De La Lealtad 5, Madrid, 28014</string>
+    <string name="hotels_onePhone">18665996674</string>
+    <string name="hotels_twoName">ME Madrid Reina Victoria</string>
+    <string name="hotels_twoLocation">Plaza de Santa Ana 14, Madrid, 28012</string>
+    <string name="hotels_twoPhone">18552771565</string>
+    <string name="hotels_threeName">The Westin Palace Madrid</string>
+    <string name="hotels_threeLocation">Plaza de las Cortes, 7, Madrid, 28014</string>
+    <string name="hotels_threePhone">34913608000</string>
+    <string name="hotels_fourName">Hotel de las Letras</string>
+    <string name="hotels_fourLocation">Gran Via 11, Madrid, 28013</string>
+    <string name="hotels_fourPhone">34915237980</string>
+    <string name="hotels_fiveName">Urban Hotel Madrid</string>
+    <string name="hotels_fiveLocation">Carrera de San Jerónimo, 34, Madrid, 18001</string>
+    <string name="hotels_fivePhone">34917877770</string>
+    <string name="restaurants_oneName">La Mi Venta</string>
+    <string name="restaurants_oneDetails">Plaza de la Marina Española, 7, 28013 Madrid</string>
+    <string name="restaurants_onePhone">Hours Today: 10:30AM to 11:30PM</string>
+    <string name="restaurants_twoName">Vinoteca Moratin</string>
+    <string name="restaurants_twoDetails">Calle de Moratín, 36, 28014 Madrid</string>
+    <string name="restaurants_twoPhone">Hours Today: 1:30PM to 12AM</string>
+    <string name="restaurants_threeName">Taberna Del Capitán Alatriste</string>
+    <string name="restaurants_threeDetails">Calle Grafal, 7, 28005 Madrid</string>
+    <string name="restaurants_threePhone">Hours Today: 1PM to 12AM</string>
+    <string name="restaurants_fourName">Origen Taberna Madrid </string>
+    <string name="restaurants_fourDetails">Calle Juan Álvarez Mendizábal, 44, 28008 Madrid</string>
+    <string name="restaurants_fourPhone">Hours Today: 12:30PM to 12AM</string>
+    <string name="restaurants_fiveName">Santceloni</string>
+    <string name="restaurants_fiveDetails">Paseo de la Castellana, 57, 28046 Madrid</string>
+    <string name="restaurants_fivePhone">Hours Today: 2PM to 11PM</string>
+</resources>
